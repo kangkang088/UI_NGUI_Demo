@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServerInfo>
+	<serverDic>
+		<int>1</int>
+		<Server id="1" name="天下无双1区" state="0" isNew="false"/>
+		<int>2</int>
+		<Server id="2" name="天下无双2区" state="1" isNew="false"/>
+		<int>3</int>
+		<Server id="3" name="天下无双3区" state="2" isNew="false"/>
+		<int>4</int>
+		<Server id="4" name="天下无双4区" state="3" isNew="false"/>
+		<int>5</int>
+		<Server id="5" name="天下无双5区" state="4" isNew="false"/>
+		<int>6</int>
+		<Server id="6" name="天下无双6区" state="4" isNew="false"/>
+		<int>7</int>
+		<Server id="7" name="天下无双7区" state="3" isNew="false"/>
+		<int>8</int>
+		<Server id="8" name="天下无双8区" state="2" isNew="false"/>
+		<int>9</int>
+		<Server id="9" name="天下无双9区" state="1" isNew="false"/>
+		<int>10</int>
+		<Server id="10" name="天下无双10区" state="0" isNew="true"/>
+		<int>11</int>
+		<Server id="11" name="天下无双11区" state="1" isNew="true"/>
+		<int>12</int>
+		<Server id="12" name="天下无双12区" state="2" isNew="true"/>
+	</serverDic>
+</ServerInfo>
